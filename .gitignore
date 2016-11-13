@@ -17,3 +17,5 @@ Config/DefaultEditor.ini
 Content/Sounds/Music/desktop.ini
 *.blend1
 Models/man.blend1
+*.log
+Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
