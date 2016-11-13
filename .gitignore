@@ -19,3 +19,5 @@ Content/Sounds/Music/desktop.ini
 Models/man.blend1
 *.log
 Build/WindowsNoEditor/FileOpenOrder/EditorOpenOrder.log
+Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+*.log
